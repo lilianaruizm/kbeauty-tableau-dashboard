@@ -70,6 +70,27 @@ The objective was to analyze sales performance, customer behavior, inventory lev
 
 ---
 
+## Dashboard Visualizations
+
+The Tableau dashboard includes the following visualizations:
+
+- Total Sales
+- Orders
+- Average Ticket
+- Monthly Sales
+- Best Sellers
+- Sales by City
+- Age Distribution
+- Inventory Analysis
+- Stock by Category
+- Average Product Rating
+- Best Rated Products
+- Ratings Distribution
+- Income by Category
+
+---
+
+
 ## Insights Generated
 
 The dashboard provides a centralized view of business performance by integrating sales, customer, inventory, and product information into a single analytical platform.
