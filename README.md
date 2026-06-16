@@ -89,7 +89,47 @@ The Tableau dashboard includes the following visualizations:
 - Income by Category
 
 ---
+## Dashboard Preview
 
+### Executive Overview
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+This dashboard provides a high-level overview of business performance, including total sales, number of orders, average ticket value, active products, and average product ratings.
+
+---
+
+### Sales Analytics
+
+![Sales Analysis](images/sales_analysis.png)
+
+This section analyzes monthly sales performance, best-selling products, and revenue distribution across product categories to identify growth opportunities and top-performing items.
+
+---
+
+### Customer Analytics
+
+![Customer Analytics](images/customer_analytics.png)
+
+Customer insights are presented through geographic sales distribution and age segmentation, helping identify key customer groups and market opportunities.
+
+---
+
+### Inventory & Product Analytics
+
+![Inventory Analytics](images/inventory_product_analytics.png)
+
+Inventory levels are monitored across product categories, allowing the identification of stock shortages, inventory risks, and product availability trends.
+
+---
+
+### Product Ratings Analysis
+
+![Product Ratings](images/product_ratings_analysis.png)
+
+This section evaluates product ratings and highlights the highest-rated products, providing insights into customer satisfaction and product performance.
+
+---
 
 ## Insights Generated
 
@@ -102,11 +142,15 @@ The visualizations help identify sales trends, customer behavior patterns, inven
 ## Skills Demonstrated
 
 - Data Visualization
-- Dashboard Design
-- KPI Development
+- Dashboard Development
+- KPI Design
 - Business Analytics
+- Customer Analytics
+- Sales Analytics
+- Inventory Analytics
 - Data Storytelling
-- Tableau Development
+- Tableau
+- Excel
 
 ---
 
